@@ -407,7 +407,7 @@ Para clonar esse repositório digite o seguinto comando no seu termial.
 git clone git@github.com:usrbinbrain/FIAP-CSO4-01.git
 ```
 
-Adicione a permissão de execução em todos os script de exemplo na pasta `fiap-python-01/script-snippet` digitando o seguinte comando.
+Adicione a permissão de execução em todos os script de exemplo na pasta `FIAP-CSO4-01/script-snippet` digitando o seguinte comando.
 
 ```bash
 chmod +x FIAP-CSO4-01/script-snippet/*.py
