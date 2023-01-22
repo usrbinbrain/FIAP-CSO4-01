@@ -390,3 +390,31 @@ else:
 [Exemplo de execução](https://www.w3schools.com/python/trypython.asp?filename=demo_if_else2)
 	
 </details>
+
+## Obtendo o repositório para execução dos scripts de exemplo. 📝
+
+<details><summary>...</summary>
+		
+Para realizar o clone (download) desse repositório vamos usar o git, em sistemas Linux baseados em Debian o pacote git pode ser intalado digitando o seginte comando (como root) no seu terminal.
+
+```bash
+apt-get uptade && apt-get install git -y
+```
+
+Para clonar esse repositório digite o seguinto comando no seu termial.
+
+```bash
+git clone git@github.com:usrbinbrain/FIAP-CSO4-01.git
+```
+
+Adicione a permissão de execução em todos os script de exemplo na pasta `fiap-python-01/script-snippet` digitando o seguinte comando.
+
+```bash
+chmod +x FIAP-CSO4-01/script-snippet/*.py
+```
+
+Edite os valores das variaveis nos scripts de exemplo para obter resultados diferentes.
+
+</details>
+	
+---
