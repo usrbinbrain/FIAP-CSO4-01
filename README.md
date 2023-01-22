@@ -61,3 +61,34 @@ Desde então a linguagem vem se estabelencendo com umas das linguagens de progra
 
 	
 </details>
+
+
+## Por que o Python ⁉️
+
+<details><summary>...</summary>
+	
+ - [x] Facilidade em aprender, usar, entender e instalar.
+
+> Python tem uma sintaxe simples e intuitiva, o que a torna fácil de aprender para programadores iniciantes. Além disso, a linguagem possui uma documentação abrangente e uma grande comunidade disponível para ajudar com dúvidas e problemas. Isso facilita o uso e a compreensão da linguagem, bem como a instalação em diferentes sistemas operacionais.
+
+ - [x] É conciso, tem uma lógica e linha de raciocínio bem simples e direta.
+
+> Python foi projetado para ser uma linguagem de fácil leitura e manutenção. Isso é alcançado através de uma sintaxe simples e direta, que permite expressar ideias de forma clara e concisa. Isso facilita a escrita, leitura e manutenção do código.
+ 
+ - [x] É código aberto, ou seja, aberta a contribuições no desenvolvimento, motivando uma vasta e ativa comunidade.
+
+> Python é uma linguagem de código aberto, o que significa que qualquer pessoa pode contribuir para o seu desenvolvimento. Isso leva a uma comunidade ativa e diversificada, que contribui para o desenvolvimento contínuo da linguagem.
+
+ - [x] É multiplataforma, você pode criar um único programa com a possibilidade de ser usado em vários sistemas operacionais.
+
+> Python é uma linguagem multiplataforma, o que significa que o código pode ser executado em vários sistemas operacionais, incluindo Windows, Linux e MacOS. Isso facilita a criação de programas que podem ser executados em vários sistemas operacionais sem necessidade de modificações.
+
+ - [x] É nativo em sistemas operacionais Linux/Unix, possibilitando ampla cobertura de servidores e facilidade no rollback de aplicações.
+
+> Como Python é nativo em sistemas operacionais Linux e Unix, é amplamente utilizado em servidores e sistemas de back-end. Isso permite uma ampla cobertura de servidores e facilidade no rollback de aplicações.
+
+ - [x] Possui proriedades extensíveis, com mais de 100 mil bibliotecas publicadas, podendo reaproveitar soluções de outros desenvolvedores.
+
+> Python tem uma grande variedade de bibliotecas disponíveis, com mais de 100 mil publicadas. Isso permite que os desenvolvedores possam reutilizar soluções já existentes e se concentrar em problemas específicos.
+
+</details>
