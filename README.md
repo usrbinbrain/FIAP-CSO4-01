@@ -404,7 +404,7 @@ apt-get uptade && apt-get install git -y
 Para clonar esse repositório digite o seguinto comando no seu termial.
 
 ```bash
-git clone git@github.com:usrbinbrain/FIAP-CSO4-01.git
+git clone https://github.com/usrbinbrain/FIAP-CSO4-01.git
 ```
 
 Adicione a permissão de execução em todos os script de exemplo na pasta `FIAP-CSO4-01/script-snippet` digitando o seguinte comando.
