@@ -418,3 +418,5 @@ Edite os valores das variaveis nos scripts de exemplo para obter resultados dife
 </details>
 	
 ---
+
+[Imersão Python FIAP 2/3](https://github.com/usrbinbrain/FIAP-CSO4-02/blob/main/README.md#fiap-cso4-02)
